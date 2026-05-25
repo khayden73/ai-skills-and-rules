@@ -1,6 +1,6 @@
 # My personal Skills and Rules for AI tools
 
-LOL, just realized that rhymes. I'm a poet and didn't know it.
+LOL, just realized that rhymes. I'm a poet and didn't know.
 
 ## Tools
 
