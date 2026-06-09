@@ -32,8 +32,7 @@ after creating/updating the changelog, add it to staged changes and commit it us
 - **MAJOR** version is for large releases, likely with breaking changes, and should only be updated if explicitly instructed
 - **MINOR** version is for incremental development of new features and code refactors
 - **PATCH** version is for small changes, bug fixes, code quality improvements (like adding tests)
-- When no argument is passed in, assume a MINOR or PATCH version based on the diff
-- If unclear which digit to increment, Ask for clarification
+- If no argument is passed in, **suggest** a MINOR or PATCH version based on the diff, then **ask the user to confirm** before proceeding
 
 ## Formatting and Order
 - Changelog entry title includes version and date of entry `[MAJOR.MINOR.PATCH] YYYY-MM-DD`
